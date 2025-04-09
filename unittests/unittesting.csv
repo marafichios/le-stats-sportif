@@ -1,0 +1,71 @@
+LocationDesc,Data_Value,Question,StratificationCategory1,Stratification1
+Ohio,29.4,Percent of adults aged 18 years and older who have obesity,Income,"$75,000 or greater"
+Washington,40.3,Percent of adults aged 18 years and older who have obesity,Income,"$75,000 or greater"
+Massachusetts,31.4,Percent of adults aged 18 years and older who have obesity,Age (years),35 - 44
+New Mexico,27.7,Percent of adults aged 18 years and older who have obesity,Income,"$25,000 - $34,999"
+Indiana,35.4,Percent of adults aged 18 years and older who have obesity,Race/Ethnicity,Hispanic
+Kansas,28.7,Percent of adults aged 18 years and older who have obesity,Age (years),45 - 54
+Kansas,24.0,Percent of adults aged 18 years and older who have obesity,Age (years),45 - 54
+New Hampshire,35.3,Percent of adults aged 18 years and older who have obesity,Gender,Female
+
+Ohio,31.6,Percent of adults who engage in no leisure-time physical activity,Race/Ethnicity,"2 or more races"
+Rhode Island,19.7,Percent of adults who engage in no leisure-time physical activity,Income,"Less than $15,000"
+Maryland,38.4,Percent of adults who engage in no leisure-time physical activity,Income,"$15,000 - $24,999"
+Nebraska,31.5,Percent of adults who engage in no leisure-time physical activity,Income,"$15,000 - $24,999"
+West Virginia,31.1,Percent of adults who engage in no leisure-time physical activity,Race/Ethnicity,American Indian/Alaska Native
+Tennessee,44.1,Percent of adults who engage in no leisure-time physical activity,Income,"Less than $15,000"
+Vermont,37.9,Percent of adults who engage in no leisure-time physical activity,Education,Less than high school
+Tennessee,39.0,Percent of adults who engage in no leisure-time physical activity,Age (years),65 or older
+Tennessee,41.7,Percent of adults who engage in no leisure-time physical activity,Age (years),25 - 34
+Nebraska,28.5,Percent of adults who engage in no leisure-time physical activity,Age (years),35 - 44
+
+
+
+Arizona,25.6,Percent of adults who report consuming fruit less than one time daily,Race/Ethnicity,Non-Hispanic Black
+Nebraska,44.3,Percent of adults who report consuming fruit less than one time daily,Income,"Less than $15,000"
+Wisconsin,30.3,Percent of adults who report consuming fruit less than one time daily,Age (years),35 - 44
+Connecticut,29.3,Percent of adults who report consuming fruit less than one time daily,Income,"$25,000 - $34,999"
+Pennsylvania,32.7,Percent of adults who report consuming fruit less than one time daily,Gender,Male
+National,38.7,Percent of adults who report consuming fruit less than one time daily,Age (years),25 - 34
+North Dakota,36.6,Percent of adults who report consuming fruit less than one time daily,Income,"Less than $15,000"
+Michigan,16.9,Percent of adults who report consuming fruit less than one time daily,Education,College graduate
+North Dakota,30.4,Percent of adults who report consuming fruit less than one time daily,Income,"$15,000 - $24,999"
+North Dakota,38.8,Percent of adults who report consuming fruit less than one time daily,Education,Some college or technical school
+
+Illinois,32.2,Percent of adults who report consuming vegetables less than one time daily,Education,High school graduate
+Oklahoma,31.3,Percent of adults who report consuming vegetables less than one time daily,Income,"$35,000 - $49,999"
+Idaho,49.8,Percent of adults who report consuming vegetables less than one time daily,Race/Ethnicity,Asian
+Vermont,29.6,Percent of adults who report consuming vegetables less than one time daily,Race/Ethnicity,Other
+Iowa,41.0,Percent of adults who report consuming vegetables less than one time daily,Income,"$50,000 - $74,999"
+North Dakota,17.8,Percent of adults who report consuming vegetables less than one time daily,Race/Ethnicity,Asian
+Arkansas,42.5,Percent of adults who report consuming vegetables less than one time daily,Income,"Less than $15,000"
+New Hampshire,29.5,Percent of adults who report consuming vegetables less than one time daily,Income,"$25,000 - $34,999"
+
+Maryland,35.3,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Education,Some college or technical school
+Missouri,31.0,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Race/Ethnicity,Other
+Arkansas,27.2,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Age (years),35 - 44
+Illinois,36.7,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Race/Ethnicity,Hispanic
+Rhode Island,24.1,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Gender,Female
+Iowa,22.2,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Race/Ethnicity,Non-Hispanic White
+Utah,38.9,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Race/Ethnicity,Hispanic
+Maine,10.4,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity,Income,"$75,000 or greater"
+
+California,29.7,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Income,"$35,000 - $49,999"
+Michigan,33.1,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Gender,Male
+Nebraska,14.5,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Age (years),18 - 24
+North Carolina,24.1,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Education,College graduate
+Mississippi,33.9,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Income,"$50,000 - $74,999"
+Oklahoma,35.1,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Race/Ethnicity,Non-Hispanic White
+North Carolina,15.5,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Income,"$25,000 - $34,999"
+Florida,38.3,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Race/Ethnicity,Asian
+California,32.8,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Education,Some college or technical school
+
+
+Montana,26.2,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Income,"$75,000 or greater"
+Florida,32.5,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Gender,Female
+Wisconsin,26.5,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Age (years),18 - 24
+North Carolina,31.0,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Income,"$25,000 - $34,999"
+Washington,25.4,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Education,College graduate
+Oklahoma,15.7,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Age (years),35 - 44
+South Carolina,28.3,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Age (years),45 - 54
+Alaska,33.1,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity,Income,"$35,000 - $49,999"
